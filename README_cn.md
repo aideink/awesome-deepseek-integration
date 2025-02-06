@@ -24,6 +24,12 @@
         <td> 一个支持多种流行LLM模型的桌面客户端，可在 Windows、Mac 和 Linux 上使用 </td>
     </tr>
     <tr>
+        <td>
+            <img src="https://github.com/user-attachments/assets/0f80367c-9eb2-405b-b9b0-c4d58711592b" alt="Icon" width="64" height="auto"/> </td>
+        <td> <a href="https://github.com/aideink"> AIDE </a> </td>
+        <td> 普通用户也能使用的0代码的web端的智能IDE开发环境</td>
+    </tr>
+    <tr>
         <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/bb65404c-f867-42d8-ae2b-281fe953ab54" alt="Icon" width="64" height="auto"/> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/chatgpt_next_web/README_cn.md"> ChatGPT-Next-Web </a> </td>
         <td> 一键获取跨平台ChatGPT网页用户界面，支持流行的LLM </td>
